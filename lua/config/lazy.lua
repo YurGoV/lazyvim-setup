@@ -17,6 +17,7 @@ require("lazy").setup({
 		-- new
 		{ import = "lazyvim.plugins.extras.linting.eslint" },
 		{ import = "lazyvim.plugins.extras.formatting.prettier" },
+    { import = "lazyvim.plugins.extras.lang.markdown" },
 		-- new
 		-- import/override with your plugins
 		{ import = "plugins" },

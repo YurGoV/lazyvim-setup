@@ -19,7 +19,7 @@ return {
           mappings = {
             ["l"] = "open",
             ["h"] = "close_node",
-            ["p"] = { "toggle_preview", config = { use_float = true, use_image_nvim = true } },
+            -- ["p"] = { "toggle_preview", config = { use_float = true, use_image_nvim = true } },
           },
         },
       })

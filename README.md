@@ -18,3 +18,23 @@ shfmt
 stylua
 typescript-language-server
 lua-language-server
+tailwindcss-language-server
+bash-l...-s...
+markdown-ling
+prettier
+prettierd
+vue-l...-s...
+
+:LazyExtra
+formatting.prettier
+lang.markdown 
+lang.typescript 
+linting.eslint 
+lsp.none-ls 
+lang.tailwind 
+
+//not managed by LazyExtra:
+lang.json 
+lang.markdown 
+ui.mini-animate 
+
